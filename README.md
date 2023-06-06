@@ -1,1 +1,1 @@
-# [View The Site](https://terfyhorizon.github.io/twl-exp/)
+# [Click to view the site](https://terfyhorizon.github.io/twl-exp/)
